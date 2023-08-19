@@ -87,7 +87,6 @@ body{
   }
   
   img{
-    z-index: -999;
     height: 190px;
     border-radius: 5px;
   }
